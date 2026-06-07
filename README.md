@@ -1,8 +1,8 @@
-# MediaManager4U - Complete Website Setup Guide
+# NexaAgency - Complete Website Setup Guide
 
 ## 🚀 Project Overview
 
-This is a complete, production-ready single-page website for MediaManager4U, a digital media & personal branding agency. Built with modern tech stack:
+This is a complete, production-ready single-page website for NexaAgency, a digital media & personal branding agency. Built with modern tech stack:
 
 - **Frontend**: React 18 + TypeScript + Tailwind CSS + Framer Motion
 - **Backend**: Node.js (Express) + TypeScript
